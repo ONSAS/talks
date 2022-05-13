@@ -7,7 +7,7 @@
    width="405.44"
    height="230.16"
    viewBox="0 0 405.44 230.16"
-   sodipodi:docname="walpaper.svg"
+   sodipodi:docname="wallpaper.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    inkscape:export-filename="/home/mvanzulli/Repositories/gitHub/ONSAS/talks/ONSAS-AeroFrame-workshop/walpaper.png"
    inkscape:export-xdpi="454.64023"
@@ -29,8 +29,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="2.2044765"
-     inkscape:cx="207.53226"
-     inkscape:cy="154.45844"
+     inkscape:cx="161.26278"
+     inkscape:cy="134.04543"
      inkscape:window-width="1920"
      inkscape:window-height="1041"
      inkscape:window-x="0"
@@ -60,7 +60,7 @@
        y="-2.566076" />
     <g
        id="g1074"
-       transform="matrix(-0.40524707,0,0,0.40524707,498.9563,30.011541)">
+       transform="matrix(0.40524707,0,0,0.40524707,255.42996,30.011541)">
       <g
          id="g1022">
         <path
@@ -163,19 +163,19 @@
          fill-rule="evenodd"
          clip-rule="evenodd"
          fill="#ffffff"
-         points="303.259,409.476 284.119,390.337 262.314,390.337 262.314,371.198 303.259,371.198 "
+         points="284.119,390.337 262.314,390.337 262.314,371.198 303.259,371.198 303.259,409.476 "
          id="polygon1052" />
       <polygon
          fill-rule="evenodd"
          clip-rule="evenodd"
          fill="#ffffff"
-         points="303.284,457.173 284.086,438.041 262.219,438.041 262.219,418.896 303.284,418.896 "
+         points="284.086,438.041 262.219,438.041 262.219,418.896 303.284,418.896 303.284,457.173 "
          id="polygon1054" />
       <polygon
          fill-rule="evenodd"
          clip-rule="evenodd"
          fill="#ffffff"
-         points="312.79,418.436 331.92,437.573 331.92,456.729 351.057,456.729 351.057,418.436 "
+         points="331.92,437.573 331.92,456.729 351.057,456.729 351.057,418.436 312.79,418.436 "
          id="polygon1056" />
       <path
          fill="#ffffff"
